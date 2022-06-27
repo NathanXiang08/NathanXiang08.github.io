@@ -74,7 +74,7 @@ This Function call will create a platform with an (x,y) location of `(400, 200)`
 ## **TODO 0.5:** *Where to Code*
 **FIND:**
 * Open up your `platformer` folder in your file tree. Then, open up 3 files:
-    * `js/init/platform.js`
+    * ``
         * Follow the instructions outlined in the file to design all required platforms for the game level.
     * `js/init/cannon.js`
         * Follow the instructions outlined in the file to design all required cannons for the game level.
@@ -103,7 +103,7 @@ This Function call will create a platform with an (x,y) location of `(400, 200)`
 ## **TODO 1:** *Platforms*
 
 **FIND:**
-* Locate and open the file `js/init/platform.js`
+* Locate and open the file ``
 
 **CODE:**
 * Make a function call using the  `createPlatform()` Function to create platforms for the level. 
